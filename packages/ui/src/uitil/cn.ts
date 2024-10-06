@@ -1,0 +1,1 @@
+export const baseClass = "bg-red-500"
